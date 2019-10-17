@@ -3,5 +3,6 @@ int main()
 { int i[], j;
 printf("enter the input");
 scanf("%d",i[]);
+printf("%d",i[]); 
  }
 
